@@ -1,0 +1,19 @@
+layout {
+    pane split_direction="horizontal" {
+        pane split_direction="vertical" {
+            pane focus=true
+
+            pane size=26 borderless=true {
+                plugin location="file:/var/home/mapple/.config/zellij/post-apollo/plugin/target/wasm32-wasip1/debug/post-apollo.wasm" {
+                    region "side"
+                }
+            }
+        }
+
+        pane size=10 borderless=true {
+            plugin location="file:/var/home/mapple/.config/zellij/post-apollo/plugin/target/wasm32-wasip1/debug/post-apollo.wasm" {
+                region "deck"
+            }
+        }
+    }
+}
