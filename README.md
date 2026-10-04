@@ -4,9 +4,13 @@
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+![Zellij // Post-Apollo](./BUILD/assets/design/zellij-banner.svg)
+
 > **STATE //** active \~\~ **VIEW //** terminal multiplexer / receiver control layer
 
-> **Post-Apollo Zellij contains the live multiplexer configuration, layouts, and custom receiver-style WASM plugin.**
+The persistent terminal workspace of the Post-Apollo Family — shaping the relationship between operator, terminal, panes, sessions, projects, and continuity, turning temporary terminal windows into an organized working environment that can preserve structure, context, and place across ongoing work.
+
+**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [TASKBARS](https://github.com/kudokudo1/taskbars-post-apollo)
 
 ### 🧭 MAP // REPOSITORY
 
