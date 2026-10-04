@@ -1,6 +1,6 @@
 ✦︎✦︎✦︎ Meta Apollo Logos //
 
-# 🖳 POST-APOLLO // ZELLIJ
+# 🖳 ZELLIJ // POST-APOLLO
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
